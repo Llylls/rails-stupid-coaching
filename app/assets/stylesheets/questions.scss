@@ -1,0 +1,45 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+ body {
+   color: rgb(61, 61, 61);
+ }
+
+// Ask
+input {
+  font-size: 30px;
+
+.style {
+padding: 0px 0px;
+}
+
+}
+.blue {
+color: white;
+background-color: rgb(51, 122, 183);
+border-color: rgb(51, 122, 183);
+}
+
+// Answer
+.banner-1 {
+  border-left: 6px solid rgb(221, 221, 221);
+  padding-left: 20px;
+  p {
+  }
+}
+
+.banner-2 {
+  background: rgb(255, 255, 225);
+  border-left: 6px solid rgb(221, 221, 221);
+  padding-left: 20px;
+  p {
+  }
+ }
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-weight: italic;
+}
